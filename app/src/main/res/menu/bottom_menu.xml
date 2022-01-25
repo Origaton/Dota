@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/matchesButton"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_matches"
+        android:title="@string/matches_button_text" />
+
+    <item
+        android:id="@+id/eventsButton"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_events"
+        android:title="@string/events_button_text" />
+
+    <item
+        android:id="@+id/teamsButton"
+        android:orderInCategory="3"
+        android:icon="@drawable/ic_teams"
+        android:title="@string/teams_button_text" />
+</menu>
